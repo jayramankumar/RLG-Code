@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Policies>
+  <Policy>
+    <Number>A100001</Number>
+    <Maturity>14980.000</Maturity>
+  </Policy>
+  <Policy>
+    <Number>A100002</Number>
+    <Maturity>18528.12500</Maturity>
+  </Policy>
+  <Policy>
+    <Number>A100003</Number>
+    <Maturity>23277.3500</Maturity>
+  </Policy>
+  <Policy>
+    <Number>B100001</Number>
+    <Maturity>18894.0000</Maturity>
+  </Policy>
+  <Policy>
+    <Number>B100002</Number>
+    <Maturity>28743.0000</Maturity>
+  </Policy>
+  <Policy>
+    <Number>B100003</Number>
+    <Maturity>33350.0000</Maturity>
+  </Policy>
+  <Policy>
+    <Number>C100001</Number>
+    <Maturity>18587.8000</Maturity>
+  </Policy>
+  <Policy>
+    <Number>C100002</Number>
+    <Maturity>22968.0000</Maturity>
+  </Policy>
+  <Policy>
+    <Number>C100003</Number>
+    <Maturity>27462.6000</Maturity>
+  </Policy>
+</Policies>

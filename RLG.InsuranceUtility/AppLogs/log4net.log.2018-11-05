@@ -1,0 +1,72 @@
+2018-11-05 10:50:51,002 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:50:51,190 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:50:51,443 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:50:52,221 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:50:52,661 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:50:52,944 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:50:53,373 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:50:53,744 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:50:54,128 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:51:37,705 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:51:52,784 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:52:02,634 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:52:02,737 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:52:02,835 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:52:02,939 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:52:03,078 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:52:03,248 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
+2018-11-05 10:52:03,343 ERROR MonitoringLogger - Individual policy maturity computation: System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.FCallDivide(Decimal& d1, Decimal& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at RLG.InsuranceUtility.Models.Policy.ComputeMaturity() in C:\Users\440875\source\repos\RLG.InsuranceUtility\RLG.InsuranceUtility\Models\Policy.cs:line 55
